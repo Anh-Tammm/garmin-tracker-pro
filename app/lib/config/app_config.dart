@@ -3,13 +3,13 @@ class AppConfig {
   
   // --- CONFIGURATION GITHUB (À REMPLIR PAR L'UTILISATEUR) ---
   // Remplacez par votre nom d'utilisateur GitHub
-  static const String githubUser = "VOTRE_NOM_UTILISATEUR"; 
+  static const String githubUser = "Anh-Tammm"; 
   
   // Remplacez par le nom de votre dépôt backend (ex: garmin-hub-backend)
-  static const String githubRepo = "garmin-ultimate-project"; 
+  static const String githubRepo = "garmin-tracker-pro"; 
   
   // Remplacez par votre Token
-  static const String githubToken = "VOTRE_TOKEN_ICI"; 
+  static const String githubToken = "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"; 
   
   // --- URLS GÉNÉRÉES AUTOMATIQUEMENT (Ne pas toucher) ---
   static String get urlJson => "https://api.github.com/repos/$githubUser/$githubRepo/contents/backend/mes_seances.json";
