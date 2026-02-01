@@ -3,7 +3,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Status](https://github.com/Anh-Tammm/garmin-tracker-pro/actions/workflows/update_garmin.yml/badge.svg)
 
 **Une solution Fullstack "Serverless" pour visualiser mes performances sportives Garmin.**
 
