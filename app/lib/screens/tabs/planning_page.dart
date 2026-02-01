@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
 import 'package:intl/intl.dart';
-
-// Import de vos modèles (TrainingPlan, PlanSession)
 import '../../models/models.dart';
 
 class PagePlanning extends StatefulWidget {
