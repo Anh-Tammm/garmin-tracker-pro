@@ -3,11 +3,9 @@ import 'package:fl_chart/fl_chart.dart';
 import 'package:intl/intl.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
-
-// Imports de vos fichiers
 import '../../models/models.dart';
 import '../../config/app_config.dart';
-import '../../data/globals.dart'; // Pour userAnnotations
+import '../../data/globals.dart';
 
 class PageDetailSeance extends StatefulWidget {
   final Seance seance;
@@ -104,7 +102,6 @@ class _PageDetailSeanceState extends State<PageDetailSeance> {
 
     return Scaffold(
       appBar: AppBar(
-        // DATE SOUS LE TITRE
         title: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
@@ -114,7 +111,6 @@ class _PageDetailSeanceState extends State<PageDetailSeance> {
         ),
         backgroundColor: couleurGraph, 
         foregroundColor: Colors.white,
-        // Indicateurs de page (Ronds blancs)
         bottom: PreferredSize(
           preferredSize: const Size.fromHeight(20),
           child: Padding(
@@ -135,11 +131,10 @@ class _PageDetailSeanceState extends State<PageDetailSeance> {
         onPageChanged: (i) => setState(() => _currentPage = i),
         children: [
           
-          // --- PAGE 1 : ANALYSE ---
+          // Page 1 analyse
           SingleChildScrollView(
             child: Column(
               children: [
-                // Zone Note & Commentaires
                 Container(
                   padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
                   color: Colors.grey.shade50,
@@ -178,7 +173,7 @@ class _PageDetailSeanceState extends State<PageDetailSeance> {
             ),
           ),
 
-          // --- PAGE 2 : TABLEAU ---
+          // Page 2 tableau
           Column(
             children: [
               SwitchListTile(activeColor: couleurGraph, title: Text("Masquer les repos (< ${AppConfig.seuilReposKmH} km/h)"), value: masquerRepos, onChanged: (v) => setState(() => masquerRepos = v)),
