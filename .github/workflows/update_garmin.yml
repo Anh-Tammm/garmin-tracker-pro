@@ -1,0 +1,53 @@
+name: Update Garmin Data
+
+on:
+  schedule:
+    - cron: '0 */8 * * *' # Toutes les 8 heures
+  workflow_dispatch: # Permet de lancer manuellement
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        # On regarde dans le dossier backend/ pour les dépendances
+        if [ -f backend/requirements.txt ]; then pip install -r backend/requirements.txt; fi
+        pip install garminconnect
+
+    # CRÉATION CONFIG : On le met dans backend/ pour que le script le trouve
+    - name: Create config file from Secrets
+      run: |
+        echo '{"email": "${{ secrets.GARMIN_EMAIL }}", "password": "${{ secrets.GARMIN_PASSWORD }}", "limit": 10}' > backend/garmin_config.json
+
+    # EXECUTION : On rentre dans le dossier backend avant de lancer
+    - name: Run extraction script
+      run: |
+        cd backend && python extract_data.py
+
+    # NETTOYAGE : On supprime le fichier dans backend/
+    - name: Remove config file
+      if: always()
+      run: rm backend/garmin_config.json
+
+    # SAUVEGARDE : On ajoute le JSON qui est dans backend/
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        
+        # Attention au chemin ici !
+        git add backend/mes_seances.json
+        
+        # On commit seulement s'il y a du changement
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Garmin data" && git push)

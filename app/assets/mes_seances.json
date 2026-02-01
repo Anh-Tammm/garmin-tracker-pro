@@ -1,0 +1,124 @@
+{
+    "profil": {
+        "vo2Max": 58.8,
+        "status": "MAINTAINING_3",
+        "load": 450,
+        "readiness": 78
+    },
+    "seances": [
+        {
+            "id": "21438433712",
+            "date": "2026-01-04 09:59:43",
+            "titre": "Palaiseau Course à pied",
+            "distanceKm": 16.66,
+            "dureeMinutes": 105,
+            "bpmMoyen": 151,
+            "tags": [
+                "Endurance"
+            ],
+            "tours": [
+                {
+                    "numero": 1,
+                    "tempsSecondes": 431,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 143
+                },
+                {
+                    "numero": 2,
+                    "tempsSecondes": 394,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 150
+                },
+                {
+                    "numero": 3,
+                    "tempsSecondes": 383,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 152
+                },
+                {
+                    "numero": 4,
+                    "tempsSecondes": 379,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 152
+                },
+                {
+                    "numero": 5,
+                    "tempsSecondes": 385,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 153
+                },
+                {
+                    "numero": 6,
+                    "tempsSecondes": 372,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 155
+                },
+                {
+                    "numero": 7,
+                    "tempsSecondes": 380,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 151
+                },
+                {
+                    "numero": 8,
+                    "tempsSecondes": 379,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 150
+                },
+                {
+                    "numero": 9,
+                    "tempsSecondes": 379,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 149
+                },
+                {
+                    "numero": 10,
+                    "tempsSecondes": 375,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 150
+                },
+                {
+                    "numero": 11,
+                    "tempsSecondes": 376,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 147
+                },
+                {
+                    "numero": 12,
+                    "tempsSecondes": 385,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 151
+                },
+                {
+                    "numero": 13,
+                    "tempsSecondes": 371,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 151
+                },
+                {
+                    "numero": 14,
+                    "tempsSecondes": 368,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 143
+                },
+                {
+                    "numero": 15,
+                    "tempsSecondes": 368,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 148
+                },
+                {
+                    "numero": 16,
+                    "tempsSecondes": 349,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 156
+                },
+                {
+                    "numero": 17,
+                    "tempsSecondes": 232,
+                    "distanceMetres": 656,
+                    "bpmMoyen": 165
+                }
+            ]
+        }]
+}
