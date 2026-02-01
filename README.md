@@ -13,8 +13,8 @@ Ce projet combine une application mobile en **Flutter** avec un backend automati
 
 ## Aperçu de l'Application
 
-<img src="assets/accueil.jpg" width="300"> <img src="assets/biblio.jpg" width="300"> <img src="assets/calculateur.jpg" width="300">
-<img src="assets/carriere.jpg" width="300"> <img src="assets/comparatif.jpg" width="300"> <img src="assets/planning.jpg" width="300">
+<img src="assets/accueil.jpg" width="300"> <img src="assets/biblio.jpg" width="300"> <img src="assets/planning.jpg" width="300"> 
+<img src="assets/carriere.jpg" width="300"> <img src="assets/comparatif.jpg" width="300"> <img src="assets/calculateur.jpg" width="300">
 ---
 
 ## Architecture Technique
