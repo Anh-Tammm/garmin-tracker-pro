@@ -13,9 +13,7 @@ Ce projet combine une application mobile en **Flutter** avec un backend automati
 
 ## Aperçu de l'Application
 
-(assets/accueil.jpg)
-
-> *[Note pour Anh-Tammm : Remplace les liens ci-dessus par de vrais screenshots de ton appli pour que ça claque !]*
+!assets/accueil.jpg
 
 ---
 
