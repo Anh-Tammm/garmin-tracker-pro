@@ -2,13 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
 import 'package:http/http.dart' as http; 
-
-// Imports de vos fichiers
 import '../../config/app_config.dart';
 import '../../data/globals.dart';
 import '../../models/models.dart';
 
-// --- 1. PAGE DÉFINIR OBJECTIFS ---
+// PAGE DÉFINIR OBJECTIFS
 class PageDefinirObjectifs extends StatefulWidget { const PageDefinirObjectifs({super.key}); @override State<PageDefinirObjectifs> createState() => _PageDefinirObjectifsState(); }
 class _PageDefinirObjectifsState extends State<PageDefinirObjectifs> {
   final _semaineCtrl = TextEditingController();
@@ -77,7 +75,7 @@ class _PageDefinirObjectifsState extends State<PageDefinirObjectifs> {
   }
 }
 
-// --- 2. PAGE PERSONNALISATION ---
+//PAGE PERSONNALISATION
 class PagePersonnalisation extends StatefulWidget {
   const PagePersonnalisation({super.key});
   @override
@@ -221,7 +219,7 @@ class _PagePersonnalisationState extends State<PagePersonnalisation> {
   }
 }
 
-// --- 3. PAGE RÉGLAGES SEUILS ---
+// AGE RÉGLAGES SEUILS
 class PageReglagesSeuils extends StatefulWidget { const PageReglagesSeuils({super.key}); @override State<PageReglagesSeuils> createState() => _PageReglagesSeuilsState(); }
 class _PageReglagesSeuilsState extends State<PageReglagesSeuils> { 
   @override Widget build(BuildContext context) { 
