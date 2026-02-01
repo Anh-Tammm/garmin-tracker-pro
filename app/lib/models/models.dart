@@ -1,6 +1,5 @@
-import 'package:flutter/material.dart'; // Nécessaire pour les Colors
-import '../config/app_config.dart';     // Nécessaire car Seance utilise AppConfig
-
+import 'package:flutter/material.dart'; 
+import '../config/app_config.dart';   
 // 1. UserProfile
 class UserProfile {
   final double vo2Max;
@@ -128,14 +127,12 @@ class Seance {
     required this.listeTours
   });
 
-  // --- REGEX STATIQUES (Performance) ---
   static final RegExp _regexIntensite = RegExp(r'\s\d+/\d+'); // ex: 100/105
   static final RegExp _regexPourcent = RegExp(r'\s\d+%');      // ex: 95%
   // Détection 10x300, 5x2km, 10 x 400m
   static final RegExp _regexIntervalle = RegExp(r'(\d+)\s*x\s*(\d+)\s*(km|m)?');
   static final RegExp _regexKmIso = RegExp(r'\b([1-9][0-9]?)([.,]5)?\s?km\b');
 
-  // --- GETTER NETTOYÉ (Pour l'analyse de récurrence) ---
   String get titreNettoye {
     String t = titre;
     // 1. Enlever la ville
@@ -157,7 +154,7 @@ class Seance {
     String titreTraite = titreBrut.contains("-") ? titreBrut.split("-").last.trim() : titreBrut;
     String tAnalysis = titreTraite.toLowerCase();
 
-    // 1. DÉTECTION INTERVALLES (NxDistance) -> Génère tags "300m", "2km"...
+    // Detection intervalles
     Iterable<Match> matches = _regexIntervalle.allMatches(tAnalysis);
     
     for (var match in matches) {
