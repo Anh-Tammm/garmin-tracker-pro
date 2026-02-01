@@ -1,11 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart'; // Pour rootBundle
+import 'package:flutter/services.dart'; 
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
 import 'package:intl/intl.dart';
-
-// --- IMPORTS DE TOUT LE RESTE DU PROJET ---
 import '../config/app_config.dart';
 import '../data/globals.dart';
 import '../models/models.dart';
