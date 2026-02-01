@@ -1,12 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:fl_chart/fl_chart.dart'; // Pour les mini graphiques
-import 'package:intl/intl.dart';        // Pour les dates
-import 'dart:convert';                  // Pour json
-import 'package:shared_preferences/shared_preferences.dart'; // Pour EventsListWidget
-
+import 'package:fl_chart/fl_chart.dart'; 
+import 'package:intl/intl.dart';     
+import 'dart:convert';                 
+import 'package:shared_preferences/shared_preferences.dart'; 
 import '../models/models.dart';
 import '../config/app_config.dart';
-import '../data/globals.dart'; // Pour userAnnotations et mesDonnees
+import '../data/globals.dart'; 
 
 import '../screens/details/seance_detail.dart'; 
 
