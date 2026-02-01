@@ -1,4 +1,4 @@
-import '../models/models.dart'; // On créera ce fichier juste après
+import '../models/models.dart';
 
 // Variables globales accessibles dans toute l'app
 List<Seance> mesDonnees = [];
