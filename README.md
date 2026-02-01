@@ -8,9 +8,8 @@
 
 Ce projet personnel combine une application mobile en **Flutter** avec un backend automatisé en **Python**, le tout orchestré par une pipeline CI/CD sur **GitHub Actions**.
 > **⚠️ Note : Projet à usage personnel**
-> Ce dépôt contient le code source d'un outil développé pour mes besoins propres et à des fins **d'apprentissage (Educational Purpose)**.
+> Ce dépôt contient le code source d'un outil développé pour mes besoins propres et à des fins d'apprentissage.
 > L'architecture et les choix techniques reflètent une expérimentation personnelle et ne visent pas nécessairement les standards de production industrielle.
-> Code partagé à titre de démonstration pour mon portfolio.
 ---
 
 ## Aperçu de l'Application
