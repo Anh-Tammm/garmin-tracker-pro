@@ -46,7 +46,6 @@ jobs:
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
         
-        # Attention au chemin ici !
         git add backend/mes_seances.json
         
         # On commit seulement s'il y a du changement
