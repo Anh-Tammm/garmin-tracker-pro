@@ -6,7 +6,7 @@
 
 **Une solution Fullstack "Serverless" pour visualiser mes performances sportives Garmin.**
 
-Ce projet combine une application mobile en **Flutter** avec un backend automatisé en **Python**, le tout orchestré par une pipeline CI/CD sur **GitHub Actions**.
+Ce projet personnel combine une application mobile en **Flutter** avec un backend automatisé en **Python**, le tout orchestré par une pipeline CI/CD sur **GitHub Actions**.
 
 ---
 
