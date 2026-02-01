@@ -1,22 +1,22 @@
 class AppConfig {
   static String appTitle = "My Dashboard";
   
-  // --- CONFIGURATION GITHUB (À REMPLIR PAR L'UTILISATEUR) ---
-  // Remplacez par votre nom d'utilisateur GitHub
+  // config Github à remplacer
+  // Remplacer par nom d'utilisateur GitHub
   static const String githubUser = "Anh-Tammm"; 
   
-  // Remplacez par le nom de votre dépôt backend (ex: garmin-hub-backend)
+  // Remplacer par le nom de votre dépôt backend
   static const String githubRepo = "garmin-tracker-pro"; 
   
-  // Remplacez par votre Token
+  // token à remplacer
   static const String githubToken = "token"; 
   
-  // --- URLS GÉNÉRÉES AUTOMATIQUEMENT (Ne pas toucher) ---
+  // URL
   static String get urlJson => "https://api.github.com/repos/$githubUser/$githubRepo/contents/backend/mes_seances.json";
   static String get urlConfig => "https://api.github.com/repos/$githubUser/$githubRepo/contents/garmin_config.json";
   static String get urlWorkflow => "https://api.github.com/repos/$githubUser/$githubRepo/actions/workflows/update_garmin.yml/dispatches";
 
-  // ... (Garde tes autres booléens showVO2 etc.) ...
+  //  option
   static bool showVO2 = true;
   static bool showStatus = true;
   static bool showLoad = true;
