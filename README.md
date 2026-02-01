@@ -13,8 +13,7 @@ Ce projet combine une application mobile en **Flutter** avec un backend automati
 
 ## Aperçu de l'Application
 
-![Accueil](assets/accueil.jpg)
-
+<img src="assets/accueil.jpg" width="300">
 ---
 
 ## Architecture Technique
