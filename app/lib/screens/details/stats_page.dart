@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:fl_chart/fl_chart.dart';
-// Imports de vos fichiers
 import '../../models/models.dart';
-import '../../widgets/custom_widgets.dart'; // Pour RowStat
+import '../../widgets/custom_widgets.dart'; 
 
 class PageDetailStatsSwipable extends StatefulWidget { 
   final List<Seance> allSeances; 
@@ -28,7 +27,7 @@ class _PageDetailStatsSwipableState extends State<PageDetailStatsSwipable> {
   } 
 }
 
-// --- SOUS-PAGE 1 : CHIFFRES ---
+// sous-page 1 chiffre
 class _PageChiffres extends StatefulWidget {
   final List<Seance> allSeances;
   const _PageChiffres({required this.allSeances});
@@ -139,7 +138,7 @@ class _PageChiffresState extends State<_PageChiffres> {
   }
 }
 
-// --- SOUS-PAGE 2 : GRAPHIQUE ---
+// Sous page 2 graphique
 class _PageGraphiqueStrava extends StatefulWidget {
   final List<Seance> allSeances;
   const _PageGraphiqueStrava({required this.allSeances});
