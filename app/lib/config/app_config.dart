@@ -9,7 +9,7 @@ class AppConfig {
   static const String githubRepo = "garmin-tracker-pro"; 
   
   // Remplacez par votre Token
-  static const String githubToken = "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"; 
+  static const String githubToken = "token"; 
   
   // --- URLS GÉNÉRÉES AUTOMATIQUEMENT (Ne pas toucher) ---
   static String get urlJson => "https://api.github.com/repos/$githubUser/$githubRepo/contents/backend/mes_seances.json";
