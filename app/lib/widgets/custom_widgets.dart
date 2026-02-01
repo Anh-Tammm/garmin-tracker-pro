@@ -10,7 +10,7 @@ import '../data/globals.dart'; // Pour userAnnotations et mesDonnees
 
 import '../screens/details/seance_detail.dart'; 
 
-// --- 1. BARRE DE PRÉPARATION (Profil) ---
+// Barre de préparation
 class BarrePreparation extends StatelessWidget {
   final double percentage;
   
@@ -46,7 +46,7 @@ class BarrePreparation extends StatelessWidget {
   }
 }
 
-// --- 2. MINI STAT CARD (Dashboard) ---
+// Les petits stats en haut
 class MiniStatCard extends StatelessWidget {
   final String titre, valeur, sousValeur;
   final Color color;
@@ -84,7 +84,7 @@ class MiniStatCard extends StatelessWidget {
   }
 }
 
-// --- 3. BARRE OBJECTIF (Dashboard) ---
+// L'avancement de l'objectif
 class ProgressBarObjectif extends StatelessWidget {
   final String titre;
   final double current;
@@ -160,7 +160,7 @@ class ProgressBarObjectif extends StatelessWidget {
   }
 }
 
-// --- 4. LIGNE STATISTIQUE (Stats) ---
+// Ligne statistique
 class RowStat extends StatelessWidget { 
   final String label, value; 
   const RowStat(this.label, this.value, {super.key}); 
@@ -178,7 +178,7 @@ class RowStat extends StatelessWidget {
   } 
 }
 
-// --- 5. MINI GRAPHIQUE (Dans la carte séance) ---
+// Mini graphique dans les séances
 class MiniGraphiqueSeance extends StatelessWidget { 
   final List<Intervalle> tours; 
   final Color couleur; 
@@ -216,7 +216,7 @@ class MiniGraphiqueSeance extends StatelessWidget {
   } 
 }
 
-// --- 6. CARTE SÉANCE (Utilisée partout) ---
+// Carte séance
 class SeanceCard extends StatelessWidget {
   final Seance seance;
   final bool isSelected;
@@ -350,7 +350,7 @@ class SeanceCard extends StatelessWidget {
   }
 }
 
-// --- 7. LISTE DES COURSES (Events) ---
+// Evènements
 class EventsListWidget extends StatefulWidget { 
   const EventsListWidget({super.key}); 
   @override State<EventsListWidget> createState() => _EventsListWidgetState(); 
