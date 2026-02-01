@@ -35,8 +35,7 @@ L'extraction des données est entièrement automatisée. Pas de serveur à payer
 * **UI/UX :** Visualisation de données avec graphiques interactifs.
 
 ## Installation & Configuration
-Ce projet 
-Si vous souhaitez utiliser ce projet avec vos propres données Garmin, suivez ces étapes :
+C'est possible d'utiliser ce projet avec vos propres données Garmin  :
 
 ### 1. Prérequis
 Flutter SDK installé
