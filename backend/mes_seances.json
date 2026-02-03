@@ -1,11 +1,58 @@
 {
     "profil": {
-        "readiness": 22,
-        "vo2Max": 58.3,
+        "readiness": 31,
+        "vo2Max": 58.4,
         "status": "MAINTAINING_3",
-        "load": 636
+        "load": 478
     },
     "seances": [
+        {
+            "id": "21749196876",
+            "date": "2026-02-03 10:47:13",
+            "titre": "Nantes Course \u00e0 pied",
+            "distanceKm": 5.31,
+            "dureeMinutes": 35,
+            "bpmMoyen": 146,
+            "tags": [],
+            "tours": [
+                {
+                    "numero": 1,
+                    "tempsSecondes": 426,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 134
+                },
+                {
+                    "numero": 2,
+                    "tempsSecondes": 421,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 140
+                },
+                {
+                    "numero": 3,
+                    "tempsSecondes": 411,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 146
+                },
+                {
+                    "numero": 4,
+                    "tempsSecondes": 384,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 153
+                },
+                {
+                    "numero": 5,
+                    "tempsSecondes": 364,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 156
+                },
+                {
+                    "numero": 6,
+                    "tempsSecondes": 102,
+                    "distanceMetres": 309,
+                    "bpmMoyen": 159
+                }
+            ]
+        },
         {
             "id": "21727185166",
             "date": "2026-02-01 08:54:25",
