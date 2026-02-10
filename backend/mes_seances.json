@@ -2,10 +2,213 @@
     "profil": {
         "readiness": 80,
         "vo2Max": 58.4,
-        "status": "DETRAINING",
-        "load": 24
+        "status": "RECOVERY_2",
+        "load": 235
     },
     "seances": [
+        {
+            "id": "21822683434",
+            "date": "2026-02-10 10:36:27",
+            "titre": "Nantes - 12x300m 100/105",
+            "distanceKm": 15.1,
+            "dureeMinutes": 94,
+            "bpmMoyen": 158,
+            "tags": [],
+            "tours": [
+                {
+                    "numero": 1,
+                    "tempsSecondes": 410,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 154
+                },
+                {
+                    "numero": 2,
+                    "tempsSecondes": 388,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 157
+                },
+                {
+                    "numero": 3,
+                    "tempsSecondes": 399,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 151
+                },
+                {
+                    "numero": 4,
+                    "tempsSecondes": 380,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 156
+                },
+                {
+                    "numero": 5,
+                    "tempsSecondes": 383,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 160
+                },
+                {
+                    "numero": 6,
+                    "tempsSecondes": 206,
+                    "distanceMetres": 604,
+                    "bpmMoyen": 167
+                },
+                {
+                    "numero": 7,
+                    "tempsSecondes": 74,
+                    "distanceMetres": 300,
+                    "bpmMoyen": 149
+                },
+                {
+                    "numero": 8,
+                    "tempsSecondes": 66,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 152
+                },
+                {
+                    "numero": 9,
+                    "tempsSecondes": 70,
+                    "distanceMetres": 300,
+                    "bpmMoyen": 152
+                },
+                {
+                    "numero": 10,
+                    "tempsSecondes": 75,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 163
+                },
+                {
+                    "numero": 11,
+                    "tempsSecondes": 70,
+                    "distanceMetres": 300,
+                    "bpmMoyen": 161
+                },
+                {
+                    "numero": 12,
+                    "tempsSecondes": 69,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 166
+                },
+                {
+                    "numero": 13,
+                    "tempsSecondes": 66,
+                    "distanceMetres": 300,
+                    "bpmMoyen": 156
+                },
+                {
+                    "numero": 14,
+                    "tempsSecondes": 65,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 171
+                },
+                {
+                    "numero": 15,
+                    "tempsSecondes": 66,
+                    "distanceMetres": 300,
+                    "bpmMoyen": 168
+                },
+                {
+                    "numero": 16,
+                    "tempsSecondes": 69,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 170
+                },
+                {
+                    "numero": 17,
+                    "tempsSecondes": 65,
+                    "distanceMetres": 300,
+                    "bpmMoyen": 168
+                },
+                {
+                    "numero": 18,
+                    "tempsSecondes": 70,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 168
+                },
+                {
+                    "numero": 19,
+                    "tempsSecondes": 65,
+                    "distanceMetres": 300,
+                    "bpmMoyen": 168
+                },
+                {
+                    "numero": 20,
+                    "tempsSecondes": 65,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 173
+                },
+                {
+                    "numero": 21,
+                    "tempsSecondes": 63,
+                    "distanceMetres": 300,
+                    "bpmMoyen": 167
+                },
+                {
+                    "numero": 22,
+                    "tempsSecondes": 67,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 169
+                },
+                {
+                    "numero": 23,
+                    "tempsSecondes": 63,
+                    "distanceMetres": 300,
+                    "bpmMoyen": 170
+                },
+                {
+                    "numero": 24,
+                    "tempsSecondes": 63,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 174
+                },
+                {
+                    "numero": 25,
+                    "tempsSecondes": 55,
+                    "distanceMetres": 300,
+                    "bpmMoyen": 172
+                },
+                {
+                    "numero": 26,
+                    "tempsSecondes": 64,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 180
+                },
+                {
+                    "numero": 31,
+                    "tempsSecondes": 386,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 162
+                },
+                {
+                    "numero": 32,
+                    "tempsSecondes": 399,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 148
+                },
+                {
+                    "numero": 33,
+                    "tempsSecondes": 407,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 157
+                },
+                {
+                    "numero": 34,
+                    "tempsSecondes": 391,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 159
+                },
+                {
+                    "numero": 35,
+                    "tempsSecondes": 372,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 154
+                },
+                {
+                    "numero": 36,
+                    "tempsSecondes": 176,
+                    "distanceMetres": 483,
+                    "bpmMoyen": 157
+                }
+            ]
+        },
         {
             "id": "21749196876",
             "date": "2026-02-03 10:47:13",
