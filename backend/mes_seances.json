@@ -1,11 +1,88 @@
 {
     "profil": {
-        "readiness": 80,
-        "vo2Max": 58.4,
+        "readiness": 92,
+        "vo2Max": 58.3,
         "status": "RECOVERY_2",
-        "load": 235
+        "load": 175
     },
     "seances": [
+        {
+            "id": "21846156136",
+            "date": "2026-02-12 15:01:12",
+            "titre": "Nantes Course \u00e0 pied",
+            "distanceKm": 10.04,
+            "dureeMinutes": 65,
+            "bpmMoyen": 155,
+            "tags": [],
+            "tours": [
+                {
+                    "numero": 1,
+                    "tempsSecondes": 378,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 145
+                },
+                {
+                    "numero": 2,
+                    "tempsSecondes": 414,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 159
+                },
+                {
+                    "numero": 3,
+                    "tempsSecondes": 369,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 163
+                },
+                {
+                    "numero": 4,
+                    "tempsSecondes": 368,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 162
+                },
+                {
+                    "numero": 5,
+                    "tempsSecondes": 389,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 158
+                },
+                {
+                    "numero": 6,
+                    "tempsSecondes": 415,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 148
+                },
+                {
+                    "numero": 7,
+                    "tempsSecondes": 409,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 151
+                },
+                {
+                    "numero": 8,
+                    "tempsSecondes": 399,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 153
+                },
+                {
+                    "numero": 9,
+                    "tempsSecondes": 384,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 154
+                },
+                {
+                    "numero": 10,
+                    "tempsSecondes": 364,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 154
+                },
+                {
+                    "numero": 11,
+                    "tempsSecondes": 13,
+                    "distanceMetres": 39,
+                    "bpmMoyen": 156
+                }
+            ]
+        },
         {
             "id": "21822683434",
             "date": "2026-02-10 10:36:27",
