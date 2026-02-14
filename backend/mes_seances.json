@@ -2,10 +2,159 @@
     "profil": {
         "readiness": 82,
         "vo2Max": 58.3,
-        "status": "RECOVERY_2",
-        "load": 217
+        "status": "MAINTAINING_3",
+        "load": 549
     },
     "seances": [
+        {
+            "id": "21867769067",
+            "date": "2026-02-14 15:47:38",
+            "titre": "Nantes - 5+3+1 km",
+            "distanceKm": 20.23,
+            "dureeMinutes": 116,
+            "bpmMoyen": 164,
+            "tags": [],
+            "tours": [
+                {
+                    "numero": 1,
+                    "tempsSecondes": 386,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 140
+                },
+                {
+                    "numero": 2,
+                    "tempsSecondes": 383,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 149
+                },
+                {
+                    "numero": 3,
+                    "tempsSecondes": 390,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 150
+                },
+                {
+                    "numero": 4,
+                    "tempsSecondes": 382,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 152
+                },
+                {
+                    "numero": 5,
+                    "tempsSecondes": 387,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 153
+                },
+                {
+                    "numero": 6,
+                    "tempsSecondes": 199,
+                    "distanceMetres": 610,
+                    "bpmMoyen": 158
+                },
+                {
+                    "numero": 7,
+                    "tempsSecondes": 259,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 159
+                },
+                {
+                    "numero": 8,
+                    "tempsSecondes": 261,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 189
+                },
+                {
+                    "numero": 9,
+                    "tempsSecondes": 260,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 193
+                },
+                {
+                    "numero": 10,
+                    "tempsSecondes": 261,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 194
+                },
+                {
+                    "numero": 11,
+                    "tempsSecondes": 256,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 195
+                },
+                {
+                    "numero": 12,
+                    "tempsSecondes": 180,
+                    "distanceMetres": 142,
+                    "bpmMoyen": 158
+                },
+                {
+                    "numero": 13,
+                    "tempsSecondes": 258,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 169
+                },
+                {
+                    "numero": 14,
+                    "tempsSecondes": 259,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 189
+                },
+                {
+                    "numero": 15,
+                    "tempsSecondes": 252,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 197
+                },
+                {
+                    "numero": 16,
+                    "tempsSecondes": 180,
+                    "distanceMetres": 175,
+                    "bpmMoyen": 159
+                },
+                {
+                    "numero": 17,
+                    "tempsSecondes": 236,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 168
+                },
+                {
+                    "numero": 18,
+                    "tempsSecondes": 435,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 161
+                },
+                {
+                    "numero": 19,
+                    "tempsSecondes": 392,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 165
+                },
+                {
+                    "numero": 20,
+                    "tempsSecondes": 415,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 158
+                },
+                {
+                    "numero": 21,
+                    "tempsSecondes": 427,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 151
+                },
+                {
+                    "numero": 22,
+                    "tempsSecondes": 388,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 154
+                },
+                {
+                    "numero": 23,
+                    "tempsSecondes": 116,
+                    "distanceMetres": 304,
+                    "bpmMoyen": 158
+                }
+            ]
+        },
         {
             "id": "21846156136",
             "date": "2026-02-12 15:01:12",
