@@ -1,11 +1,238 @@
 {
     "profil": {
-        "readiness": 39,
+        "readiness": 71,
         "vo2Max": 58.3,
         "status": "PRODUCTIVE_2",
-        "load": 498
+        "load": 661
     },
     "seances": [
+        {
+            "id": "21900105104",
+            "date": "2026-02-17 18:53:53",
+            "titre": "Nantes - 12x200m",
+            "distanceKm": 14.52,
+            "dureeMinutes": 97,
+            "bpmMoyen": 152,
+            "tags": [],
+            "tours": [
+                {
+                    "numero": 1,
+                    "tempsSecondes": 431,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 137
+                },
+                {
+                    "numero": 2,
+                    "tempsSecondes": 424,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 138
+                },
+                {
+                    "numero": 3,
+                    "tempsSecondes": 423,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 140
+                },
+                {
+                    "numero": 4,
+                    "tempsSecondes": 413,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 145
+                },
+                {
+                    "numero": 5,
+                    "tempsSecondes": 410,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 141
+                },
+                {
+                    "numero": 6,
+                    "tempsSecondes": 186,
+                    "distanceMetres": 547,
+                    "bpmMoyen": 160
+                },
+                {
+                    "numero": 7,
+                    "tempsSecondes": 41,
+                    "distanceMetres": 200,
+                    "bpmMoyen": 149
+                },
+                {
+                    "numero": 8,
+                    "tempsSecondes": 52,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 166
+                },
+                {
+                    "numero": 9,
+                    "tempsSecondes": 39,
+                    "distanceMetres": 200,
+                    "bpmMoyen": 173
+                },
+                {
+                    "numero": 10,
+                    "tempsSecondes": 53,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 178
+                },
+                {
+                    "numero": 11,
+                    "tempsSecondes": 39,
+                    "distanceMetres": 200,
+                    "bpmMoyen": 164
+                },
+                {
+                    "numero": 12,
+                    "tempsSecondes": 54,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 177
+                },
+                {
+                    "numero": 13,
+                    "tempsSecondes": 38,
+                    "distanceMetres": 200,
+                    "bpmMoyen": 177
+                },
+                {
+                    "numero": 14,
+                    "tempsSecondes": 53,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 172
+                },
+                {
+                    "numero": 15,
+                    "tempsSecondes": 36,
+                    "distanceMetres": 200,
+                    "bpmMoyen": 161
+                },
+                {
+                    "numero": 16,
+                    "tempsSecondes": 60,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 176
+                },
+                {
+                    "numero": 17,
+                    "tempsSecondes": 37,
+                    "distanceMetres": 200,
+                    "bpmMoyen": 170
+                },
+                {
+                    "numero": 18,
+                    "tempsSecondes": 63,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 176
+                },
+                {
+                    "numero": 19,
+                    "tempsSecondes": 38,
+                    "distanceMetres": 200,
+                    "bpmMoyen": 169
+                },
+                {
+                    "numero": 20,
+                    "tempsSecondes": 61,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 178
+                },
+                {
+                    "numero": 21,
+                    "tempsSecondes": 41,
+                    "distanceMetres": 200,
+                    "bpmMoyen": 175
+                },
+                {
+                    "numero": 22,
+                    "tempsSecondes": 66,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 177
+                },
+                {
+                    "numero": 23,
+                    "tempsSecondes": 39,
+                    "distanceMetres": 200,
+                    "bpmMoyen": 169
+                },
+                {
+                    "numero": 24,
+                    "tempsSecondes": 61,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 174
+                },
+                {
+                    "numero": 25,
+                    "tempsSecondes": 39,
+                    "distanceMetres": 200,
+                    "bpmMoyen": 175
+                },
+                {
+                    "numero": 26,
+                    "tempsSecondes": 60,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 180
+                },
+                {
+                    "numero": 27,
+                    "tempsSecondes": 40,
+                    "distanceMetres": 200,
+                    "bpmMoyen": 173
+                },
+                {
+                    "numero": 28,
+                    "tempsSecondes": 63,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 177
+                },
+                {
+                    "numero": 29,
+                    "tempsSecondes": 36,
+                    "distanceMetres": 200,
+                    "bpmMoyen": 172
+                },
+                {
+                    "numero": 30,
+                    "tempsSecondes": 74,
+                    "distanceMetres": 100,
+                    "bpmMoyen": 174
+                },
+                {
+                    "numero": 31,
+                    "tempsSecondes": 437,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 159
+                },
+                {
+                    "numero": 32,
+                    "tempsSecondes": 442,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 163
+                },
+                {
+                    "numero": 33,
+                    "tempsSecondes": 443,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 152
+                },
+                {
+                    "numero": 34,
+                    "tempsSecondes": 455,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 146
+                },
+                {
+                    "numero": 35,
+                    "tempsSecondes": 405,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 144
+                },
+                {
+                    "numero": 36,
+                    "tempsSecondes": 157,
+                    "distanceMetres": 368,
+                    "bpmMoyen": 146
+                }
+            ]
+        },
         {
             "id": "21874781639",
             "date": "2026-02-15 11:42:30",
