@@ -1,9 +1,9 @@
 {
     "profil": {
-        "readiness": 71,
+        "readiness": 47,
         "vo2Max": 58.3,
         "status": "PRODUCTIVE_2",
-        "load": 661
+        "load": 563
     },
     "seances": [
         {
