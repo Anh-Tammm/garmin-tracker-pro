@@ -7,6 +7,125 @@
     },
     "seances": [
         {
+            "id": "21930636837",
+            "date": "2026-02-20 18:01:54",
+            "titre": "Nantes - 3x3km",
+            "distanceKm": 14.28,
+            "dureeMinutes": 85,
+            "bpmMoyen": 161,
+            "tags": [],
+            "tours": [
+                {
+                    "numero": 1,
+                    "tempsSecondes": 394,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 142
+                },
+                {
+                    "numero": 2,
+                    "tempsSecondes": 384,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 152
+                },
+                {
+                    "numero": 3,
+                    "tempsSecondes": 390,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 152
+                },
+                {
+                    "numero": 4,
+                    "tempsSecondes": 395,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 156
+                },
+                {
+                    "numero": 5,
+                    "tempsSecondes": 159,
+                    "distanceMetres": 508,
+                    "bpmMoyen": 176
+                },
+                {
+                    "numero": 6,
+                    "tempsSecondes": 257,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 172
+                },
+                {
+                    "numero": 7,
+                    "tempsSecondes": 256,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 188
+                },
+                {
+                    "numero": 8,
+                    "tempsSecondes": 251,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 195
+                },
+                {
+                    "numero": 9,
+                    "tempsSecondes": 150,
+                    "distanceMetres": 159,
+                    "bpmMoyen": 167
+                },
+                {
+                    "numero": 10,
+                    "tempsSecondes": 259,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 174
+                },
+                {
+                    "numero": 11,
+                    "tempsSecondes": 256,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 197
+                },
+                {
+                    "numero": 12,
+                    "tempsSecondes": 443,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 150
+                },
+                {
+                    "numero": 13,
+                    "tempsSecondes": 7,
+                    "distanceMetres": 19,
+                    "bpmMoyen": 155
+                },
+                {
+                    "numero": 14,
+                    "tempsSecondes": 434,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 154
+                },
+                {
+                    "numero": 15,
+                    "tempsSecondes": 416,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 154
+                },
+                {
+                    "numero": 16,
+                    "tempsSecondes": 414,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 154
+                },
+                {
+                    "numero": 17,
+                    "tempsSecondes": 150,
+                    "distanceMetres": 386,
+                    "bpmMoyen": 154
+                },
+                {
+                    "numero": 18,
+                    "tempsSecondes": 77,
+                    "distanceMetres": 203,
+                    "bpmMoyen": 155
+                }
+            ]
+        },
+        {
             "id": "21918788655",
             "date": "2026-02-19 15:58:00",
             "titre": "Nantes Course \u00e0 pied",
