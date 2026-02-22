@@ -7,6 +7,89 @@
     },
     "seances": [
         {
+            "id": "21950833355",
+            "date": "2026-02-22 16:09:14",
+            "titre": "Palaiseau Course \u00e0 pied",
+            "distanceKm": 11.29,
+            "dureeMinutes": 75,
+            "bpmMoyen": 149,
+            "tags": [],
+            "tours": [
+                {
+                    "numero": 1,
+                    "tempsSecondes": 420,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 149
+                },
+                {
+                    "numero": 2,
+                    "tempsSecondes": 397,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 152
+                },
+                {
+                    "numero": 3,
+                    "tempsSecondes": 397,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 152
+                },
+                {
+                    "numero": 4,
+                    "tempsSecondes": 404,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 147
+                },
+                {
+                    "numero": 5,
+                    "tempsSecondes": 413,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 148
+                },
+                {
+                    "numero": 6,
+                    "tempsSecondes": 385,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 152
+                },
+                {
+                    "numero": 7,
+                    "tempsSecondes": 396,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 149
+                },
+                {
+                    "numero": 8,
+                    "tempsSecondes": 393,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 150
+                },
+                {
+                    "numero": 9,
+                    "tempsSecondes": 407,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 146
+                },
+                {
+                    "numero": 10,
+                    "tempsSecondes": 389,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 149
+                },
+                {
+                    "numero": 11,
+                    "tempsSecondes": 389,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 147
+                },
+                {
+                    "numero": 12,
+                    "tempsSecondes": 119,
+                    "distanceMetres": 293,
+                    "bpmMoyen": 143
+                }
+            ]
+        },
+        {
             "id": "21930636837",
             "date": "2026-02-20 18:01:54",
             "titre": "Nantes - 3x3km",
