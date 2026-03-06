@@ -7,6 +7,47 @@
     },
     "seances": [
         {
+            "id": "22073224531",
+            "date": "2026-03-05 18:37:23",
+            "titre": "Nantes Course \u00e0 pied",
+            "distanceKm": 4.94,
+            "dureeMinutes": 34,
+            "bpmMoyen": 147,
+            "tags": [],
+            "tours": [
+                {
+                    "numero": 1,
+                    "tempsSecondes": 412,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 138
+                },
+                {
+                    "numero": 2,
+                    "tempsSecondes": 401,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 149
+                },
+                {
+                    "numero": 3,
+                    "tempsSecondes": 450,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 146
+                },
+                {
+                    "numero": 4,
+                    "tempsSecondes": 424,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 149
+                },
+                {
+                    "numero": 5,
+                    "tempsSecondes": 335,
+                    "distanceMetres": 941,
+                    "bpmMoyen": 157
+                }
+            ]
+        },
+        {
             "id": "22043470762",
             "date": "2026-03-03 08:02:56",
             "titre": "Nantes Course \u00e0 pied",
