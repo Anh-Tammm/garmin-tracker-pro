@@ -1,9 +1,9 @@
 {
     "profil": {
-        "readiness": 67,
+        "readiness": 83,
         "vo2Max": 58.3,
-        "status": "RECOVERY_2",
-        "load": 62
+        "status": "DETRAINING",
+        "load": 42
     },
     "seances": [
         {
