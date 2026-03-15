@@ -2,10 +2,63 @@
     "profil": {
         "readiness": 83,
         "vo2Max": 58.3,
-        "status": "DETRAINING",
-        "load": 42
+        "status": "RECOVERY_2",
+        "load": 141
     },
     "seances": [
+        {
+            "id": "22178405871",
+            "date": "2026-03-15 09:56:53",
+            "titre": "Paris Course \u00e0 pied",
+            "distanceKm": 6.02,
+            "dureeMinutes": 38,
+            "bpmMoyen": 155,
+            "tags": [],
+            "tours": [
+                {
+                    "numero": 1,
+                    "tempsSecondes": 409,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 138
+                },
+                {
+                    "numero": 2,
+                    "tempsSecondes": 396,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 149
+                },
+                {
+                    "numero": 3,
+                    "tempsSecondes": 427,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 150
+                },
+                {
+                    "numero": 4,
+                    "tempsSecondes": 382,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 158
+                },
+                {
+                    "numero": 5,
+                    "tempsSecondes": 370,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 160
+                },
+                {
+                    "numero": 6,
+                    "tempsSecondes": 258,
+                    "distanceMetres": 1000,
+                    "bpmMoyen": 190
+                },
+                {
+                    "numero": 7,
+                    "tempsSecondes": 14,
+                    "distanceMetres": 23,
+                    "bpmMoyen": 191
+                }
+            ]
+        },
         {
             "id": "22099784796",
             "date": "2026-03-08 08:18:26",
